@@ -1,2 +1,2 @@
-# Vital-Items-Recipes
-Vital Items &amp; Recipes, a mod for Terraria using tModLoader
+# More-Exclusive-Items
+More Exclusive Items, a mod for Terraria using tModLoader
